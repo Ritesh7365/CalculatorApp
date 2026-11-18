@@ -1,5 +1,6 @@
 # CalculatorApp
 <img width="672" height="1280" alt="image" src="https://github.com/user-attachments/assets/661a6370-ee2e-4727-9bdd-870c3fa8cdd6" />
+<img width="466" height="881" alt="image" src="https://github.com/user-attachments/assets/ffb7559b-eb2b-44e6-8162-255a18dec858" />
 
 Simple calculator app for iPhone made with SwiftUI. Looks similar to the default iOS calculator.
 
